@@ -12,9 +12,8 @@
       <mask>*.as</mask>
       <mask>*.css</mask>
       <mask>*.mxml</mask>
-      <mask>.</mask>
-      <mask>.j</mask>
-      <mask>.js</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
       <mask>*.js</mask>
     </recentFileMasks>
   </component>
