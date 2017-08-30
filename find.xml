@@ -3,16 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="poi*.js*" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
-      <mask>*.jsp</mask>
-      <mask>*.xml</mask>
-      <mask>*.java</mask>
-      <mask>*.as</mask>
-      <mask>*.css</mask>
-      <mask>*.mxml</mask>
-      <mask>*.sca</mask>
       <mask>*.scal</mask>
       <mask>*.scala</mask>
       <mask>*.j</mask>
@@ -24,7 +16,25 @@
       <mask>*.</mask>
       <mask>*.jsx</mask>
       <mask>*.js</mask>
+      <mask>photo*.js*</mask>
+      <mask>phot*.js*</mask>
+      <mask>pho*.js*</mask>
+      <mask>ph*.js*</mask>
+      <mask>p*.js*</mask>
+      <mask>tip*.js*</mask>
+      <mask>ti*.js*</mask>
+      <mask>t*.js*</mask>
+      <mask>i*.js*</mask>
+      <mask>im*.js*</mask>
+      <mask>imp*.js*</mask>
+      <mask>impre*.js*</mask>
+      <mask>impres*.js*</mask>
+      <mask>impress*.js*</mask>
+      <mask>impression*.js*</mask>
+      <mask>impressio*.js*</mask>
       <mask>*.js*</mask>
+      <mask>po*.js*</mask>
+      <mask>poi*.js*</mask>
     </recentFileMasks>
   </component>
 </application>
