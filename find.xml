@@ -6,11 +6,6 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.scal</mask>
-      <mask>*.scala</mask>
-      <mask>*.j</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
       <mask>*</mask>
@@ -36,6 +31,11 @@
       <mask>*.js*</mask>
       <mask>po*.js*</mask>
       <mask>poi*.js*</mask>
+      <mask>r</mask>
+      <mask>ro</mask>
+      <mask>route</mask>
+      <mask>routes</mask>
+      <mask>s</mask>
     </recentFileMasks>
   </component>
 </application>
