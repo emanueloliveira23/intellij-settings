@@ -2,20 +2,9 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*route*.scala" />
     <recentFileMasks>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.jsx</mask>
-      <mask>*.js</mask>
-      <mask>photo*.js*</mask>
-      <mask>phot*.js*</mask>
-      <mask>pho*.js*</mask>
-      <mask>ph*.js*</mask>
       <mask>p*.js*</mask>
       <mask>tip*.js*</mask>
       <mask>ti*.js*</mask>
@@ -36,6 +25,16 @@
       <mask>route</mask>
       <mask>routes</mask>
       <mask>s</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scal</mask>
+      <mask>*.scala</mask>
+      <mask>r*.scala</mask>
+      <mask>ro*.scala</mask>
+      <mask>route*.scala</mask>
+      <mask>*route*.scala</mask>
     </recentFileMasks>
   </component>
 </application>
