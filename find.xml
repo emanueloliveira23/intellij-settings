@@ -3,37 +3,5 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <recentFileMasks>
-      <mask>p*.js*</mask>
-      <mask>tip*.js*</mask>
-      <mask>ti*.js*</mask>
-      <mask>t*.js*</mask>
-      <mask>i*.js*</mask>
-      <mask>im*.js*</mask>
-      <mask>imp*.js*</mask>
-      <mask>impre*.js*</mask>
-      <mask>impres*.js*</mask>
-      <mask>impress*.js*</mask>
-      <mask>impression*.js*</mask>
-      <mask>impressio*.js*</mask>
-      <mask>*.js*</mask>
-      <mask>po*.js*</mask>
-      <mask>poi*.js*</mask>
-      <mask>r</mask>
-      <mask>ro</mask>
-      <mask>route</mask>
-      <mask>routes</mask>
-      <mask>s</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sc</mask>
-      <mask>*.scal</mask>
-      <mask>*.scala</mask>
-      <mask>r*.scala</mask>
-      <mask>ro*.scala</mask>
-      <mask>route*.scala</mask>
-      <mask>*route*.scala</mask>
-    </recentFileMasks>
   </component>
 </application>
