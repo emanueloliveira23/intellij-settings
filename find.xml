@@ -27,6 +27,8 @@
       <mask>*.jsx</mask>
       <mask>*.js</mask>
       <mask>*.js*</mask>
+      <mask>*.scssexperience-sale-button</mask>
+      <mask>*.scssexperience-sale-buttonexperience-sale-button</mask>
       <mask>*.scss</mask>
     </recentFileMasks>
   </component>
