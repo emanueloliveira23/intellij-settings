@@ -15,16 +15,18 @@
       <mask>*.sca</mask>
       <mask>*.scal</mask>
       <mask>*.scala</mask>
-      <mask>*.j</mask>
       <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*</mask>
       <mask>*.</mask>
-      <mask>*.jsx</mask>
-      <mask>*.js</mask>
       <mask>*.js*</mask>
       <mask>*.scss</mask>
+      <mask>*.j</mask>
+      <mask>*.js</mask>
+      <mask>*.jsx</mask>
+      <mask>*.jsx?</mask>
+      <mask>*.js?</mask>
     </recentFileMasks>
   </component>
 </application>
