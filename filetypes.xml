@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="add-translate" type="PLAIN_TEXT" />
       <mapping pattern="2017.csv" type="PLAIN_TEXT" />
+      <mapping pattern="add-translate" type="PLAIN_TEXT" />
+      <mapping ext="ophs" type="PLAIN_TEXT" />
       <mapping ext="ws" type="Scala" />
     </extensionMap>
   </component>
